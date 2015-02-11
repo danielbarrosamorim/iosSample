@@ -1,0 +1,14 @@
+mscorlib.dll
+System.dll
+System.Xml.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+Microsoft.WindowsAzure.Mobile.dll
+Newtonsoft.Json.dll
+System.Xml.Linq.dll
+System.Runtime.Serialization.dll
+Microsoft.CSharp.dll
+Mono.CSharp.dll
+System.Net.Http.dll
+System.Net.Http.Primitives.dll
+Microsoft.WindowsAzure.Mobile.Ext.dll

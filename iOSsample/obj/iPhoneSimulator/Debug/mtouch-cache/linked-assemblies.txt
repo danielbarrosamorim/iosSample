@@ -1,0 +1,16 @@
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.CSharp.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Net.Http.Primitives.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Microsoft.CSharp.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/iOSsample.exe
+/Users/marcelo/GitHub/FormsPushNotification/Components/azure-mobile-services-1.3.1/samples/iOSsample/iOSsample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
